@@ -1,6 +1,6 @@
 ### About
 
-Real-Time Oceanographic Consulting and Instrumentation provides expert insights, analyses, experimental design services, and instrumentation in support of a broad range of oceanographic investigations. Our company specializes in:
+Real-Time Oceanographic Consulting and Instrumentation provides expert insights, analyses, experimental design services, and marine instrumentation in support of a broad range of oceanographic investigations. Our company specializes in:
 
   - Real-time oceanographic observation systems
   - Hydroacoustic monitoring and analysis
