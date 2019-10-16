@@ -5,7 +5,7 @@ Real-Time Oceanographic Consulting and Instrumentation provides expert insights,
   - Hydroacoustic monitoring and analysis
   - Acoustic source modeling
   - Environmental impact assesments
-  - Seafloor imaging and large-scale image analysis problems
+  - Seafloor imaging systems and large-scale image analysis problems using machine learning
   - Ultra-deep oceanographic instrumentation design and development
 
 ### People
