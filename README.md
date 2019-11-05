@@ -1,6 +1,6 @@
 ### About
 
-Real-Time Oceanographic Consulting and Instrumentation provides expert insights, analyses, experimental design services, and marine instrumentation in support of a broad range of oceanographic investigations. Our company specializes in:
+Real-Time Oceanographic LLC provides consulting, expert insights, analyses, experimental design services, and marine instrumentation in support of a broad range of oceanographic investigations. Our company specializes in:
 
   - Real-time oceanographic observation systems
   - Hydroacoustic monitoring and analysis
@@ -11,9 +11,14 @@ Real-Time Oceanographic Consulting and Instrumentation provides expert insights,
 
 ### People
 
-#### Timothy Crone, PhD
+#### Tim Crone, PhD
 
-#### DelWayne Bohnenstiehl, PhD
+Tim has over 20 years of experience designing, building, deploying, recovering, and analyzing data from audio and video instrumentation in the very deep ocean. He has a strong track record of building instruments that work, survive at depth, and return the data they are intended to return from these challenging environments. He has deployed and recovered many dozens of instruments that have performed as expected over the decades. Tim works primarily in academic research, has published over twenty scientific publications, and has significant experience as a consultant to industry.
+
+#### DelWayne (Del) Bohnenstiehl, PhD
+
+Del has over 25 years of experience using active sonars and passive underwater acoustic data to investigate a wide range of geophysical and ecological processes. He has been involved in numerous seafloor mapping expeditions, and has authored dozens of scientific papers examining ocean noise sources within the coastal and deep ocean. Del routinely works with long-term (multi-year) passive acoustic datasets, and has previously investigated annual-to-decadal noise trends within the eastern equatorial and western Pacific Ocean.
 
 ### Contact
 
+To discuss your oceanographic research or instrumentation project, please contact tim@realtimeoceanographic.com.
