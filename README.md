@@ -17,7 +17,7 @@ Real-Time Oceanographic LLC provides consulting, expert insights, analyses, expe
 
 #### DelWayne (Del) Bohnenstiehl, PhD
 
-<img src="/assets/img/del.jpg" alt="DelWayne Bohnenstiehl" align="left" style="margin: 0px 15px 0px 0px" width="130">Del has over 25 years of experience using active sonars and passive underwater acoustic data to investigate a wide range of geophysical and ecological processes. He has been involved in numerous seafloor mapping expeditions, and has authored dozens of scientific papers examining ocean noise sources within the coastal and deep ocean. Del routinely works with long-term (multi-year) passive acoustic datasets, and has previously investigated annual-to-decadal noise trends within the eastern equatorial and western Pacific Ocean.
+<img src="/assets/img/del.jpg" alt="DelWayne Bohnenstiehl" align="left" style="margin: 0px 15px 0px 0px" width="130">Del has over 25 years of experience using active sonars and passive underwater acoustic data to investigate a wide range of geophysical and ecological processes. He has been involved in numerous seafloor mapping expeditions, and has authored dozens of scientific papers examining ocean noise sources within the coastal and deep ocean. Del routinely works with long-term (multi-year) passive acoustic datasets, and has previously investigated annual-to-decadal noise trends throughout the global ocean.
 
 ### Contact
 
