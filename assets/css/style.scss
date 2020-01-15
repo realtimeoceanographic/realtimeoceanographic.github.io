@@ -2,8 +2,9 @@
 ---
 
 $header-heading-color: #000;
-$header-bg-color: #99FFFF;
-$header-bg-color-secondary: #004499;
+$header-bg-color: #004499;
+$header-bg-color-secondary: #99FFFF;
+$section-headings-color: #004499;
 
 @import "{{ site.theme }}";
 
@@ -11,6 +12,6 @@ $header-bg-color-secondary: #004499;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(120deg, $header-bg-color, $header-bg-color-secondary);
   padding: 30px 0px;
 }
