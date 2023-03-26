@@ -8,6 +8,10 @@ $section-headings-color: #004499;
 
 @import "{{ site.theme }}";
 
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
