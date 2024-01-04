@@ -21,7 +21,7 @@ Real-Time Oceanographic LLC provides consulting, expert insights, analyses, expe
 
 ### Tim Crone, PhD<br><sup>*Founder and Chief Executive Officer*</sup>
 
-<img src="/assets/img/tim.jpg" alt="Tim Crone" align="left" style="margin: 5px 15px 0px 0px" width="130">Tim has over 20 years of experience designing, building, deploying, recovering, and analyzing data from audio and video instrumentation in the very deep ocean. He has a strong track record of building instruments that work, survive at depth, and return the data they are intended to return from these challenging environments. He has deployed and recovered many dozens of instruments that have performed as expected over the decades, and has been to the bottom of the ocean many times in *DSV Alvin*. Tim works primarily in academic research, has published over twenty scientific publications, and has significant experience as a consultant to industry and to the legal community.
+<img src="/assets/img/tim.jpg" alt="Tim Crone" align="left" style="margin: 5px 15px 0px 0px" width="130">Tim has over 20 years of experience designing, building, deploying, recovering, and analyzing data from audio and video instrumentation in the very deep ocean. He has a strong track record of building instruments that work, survive at depth, and return data from challenging environments. He has deployed and recovered many dozens of instruments that have performed as expected over the decades, and has been to the bottom of the ocean many times in *DSV Alvin*. Tim works primarily in academic research, has published over twenty scientific publications, and has significant experience as a consultant to industry and to the legal community.
 
 ### DelWayne Bohnenstiehl, PhD<br><sup>*Founder and Chief Science Officer*</sup>
 
@@ -29,9 +29,7 @@ Real-Time Oceanographic LLC provides consulting, expert insights, analyses, expe
 
 ### Nick Frearson<br><sup>*Chief Technology Officer*</sup>
 
-<img src="/assets/img/blank.jpg" alt="Nick Frearson" align="left" style="margin: 5px 15px 0px 0px" width="130">Nick is the Chief Technology Officer.
-<br><br><br><br><br><br>
-
+<img src="/assets/img/blank.jpg" alt="Nick Frearson" align="left" style="margin: 5px 15px 0px 0px" width="130">Nick has been designing, building, testing and deploying automated remote electronic instrumentation in extreme environments for over three decades. Nick has worked on every continent, from the northern tip of Greenland to the ice sheets of Antarctica, and has been lowered into active volcanoes in Alaska in the service of science. He is an expert at integrating instrumentation into airborne platforms of every size, ranging from small drones to large military aircraft, and he understands the certification processes required to do so. Nick is a highly-creative electrical and aeronautical engineer who has worked for many years in both academia and industry, and has built and run electronics and mechanical prototyping labs.
 
 ## Contact
 
