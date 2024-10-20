@@ -27,10 +27,6 @@ Real-Time Oceanographic LLC provides consulting, expert insights, analyses, expe
 
 <img src="/assets/img/del.png" alt="DelWayne Bohnenstiehl" align="left" style="margin: 5px 15px 0px 0px" width="130">Del has over 25 years of experience using active sonar systems and passive underwater acoustic data to investigate a wide range of geophysical and ecological processes. He has been involved in numerous seafloor mapping expeditions, and has authored dozens of scientific papers examining ocean noise sources within the coastal and deep ocean. Del routinely works with long-term, multi-year, passive acoustic datasets, and has previously investigated annual-to-decadal noise trends throughout the global ocean.
 
-### Nick Frearson<br><sup>*Chief Technology Officer*</sup>
-
-<img src="/assets/img/nick.png" alt="Nick Frearson" align="left" style="margin: 5px 15px 0px 0px" width="130">Nick is a highly-creative aeronautical engineer and systems integrator who has been designing, building, testing, and deploying automated remote electronic instrumentation in extreme environments for over three decades. Nick has worked on every continent, from the northern tip of Greenland to the ice sheets of Antarctica, and has been lowered into active volcanoes in Alaska in the service of science. He is an expert at integrating instrumentation into airborne platforms of every size, ranging from small drones to large military aircraft, and he understands the certification processes required to do so. Nick has worked in both acedemia and industry during his career.
-
 
 ## Contact
 
